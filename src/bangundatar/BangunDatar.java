@@ -1,6 +1,6 @@
+package bangundatar;
 
-
-abstract public class BangunDatar {
+public abstract class BangunDatar {
     protected String name;
 
     public abstract double luas();

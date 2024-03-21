@@ -1,4 +1,4 @@
-
+package library;
 
 public interface Printable {
     double phi = 3.14;
