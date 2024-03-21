@@ -1,4 +1,4 @@
-package bangundatar;
+
 
 abstract public class BangunDatar {
     protected String name;
