@@ -1,4 +1,4 @@
-package BangunDatar;
+package bangundatar;
 import library.*;
 
 public class PersegiPanjang extends BangunDatar implements Printable, Shape {
